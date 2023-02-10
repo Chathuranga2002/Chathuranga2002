@@ -1,52 +1,85 @@
 <h1>
-   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+   <img src="https://github.com/Chathuranga2002/Chathuranga2002/blob/main/Futuristic%20Technology%20Conference%20Presentation.gif"  />
 </h1>
 
-<h2 align="center">Hi 👋! My name is Thisara Chathuranga <br><br>I'm a developer from Srilanka</h2>
+<h2 align="center">Hi 👋! My name is Thisara Chathuranga </h2>
+<h3 align="center"> I'm a developer from Srilanka</h3>
+<br/>
+<br/>
+
+- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🌱 I’m currently learning at `ijse`.
+- 💬 Ask me whatsapp - `+94 711650370 `
+- 📫 How to reach me **thisarachathuranga01@gmail.com** 
+- My Projects also in https://github.com/Chathuranga2002
+
+<p align="Right">
+<img alt="Profile followers" src="https://img.shields.io/github/followers/Chathuranga2002">
+</p>
+
 
 ###
+## Github Activity ✔:
+
+
+
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Chathuranga2002" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Chathuranga2002" height="200" alt="languages graph"  />
+   
+
+ <img  src="https://github-readme-stats.vercel.app/api?username=Chathuranga2002&show_icons=true&theme=tokyonight&line_height=27" />
+
+
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathuranga2002&theme=tokyonight" />
+ 
+   
 </div>
+<br/>
+<br/>
 
 ###
 
+## 🔗  Languages and Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="thisarachathuranga01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+   * Languages <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,java,mysql,nodejs,react,materialui" />
   </a>
-  <a href="https://www.linkedin.com/in/thisara-chathuranga-643785264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</p>
+
+
+<p align="center">
+   * Tools <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,powershell,figma,linux,idea,ps,vscode,androidstudio" />
   </a>
-</div>
+</p>
+<br/>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-</div>
+## Social Media
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter,stackoverflow" />
+  </a>
+</p>
+</p>
 
-###
+<br/>
+<br/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Chathuranga2002/count.svg" />
+</p>
+
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
+
+</h5>
+
