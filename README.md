@@ -1,5 +1,5 @@
 <h1>
-   <img src="https://github.com/Chathuranga2002/Chathuranga2002/blob/main/Jonathan%20Patterson.gif"  />
+   <img src="https://raw.githubusercontent.com/Chathuranga2002/Chathuranga2002/68a835db97b959b72e0eeeed2657fde14ecae658/Jonathan%20Patterson%20(1).gif"  />
 </h1>
 
 <h2 align="center">Hi 👋! My name is Thisara Chathuranga </h2>
