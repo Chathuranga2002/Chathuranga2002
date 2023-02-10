@@ -42,8 +42,6 @@
 
 ###
 
-<div align="center">
-  <img height="1080" src="https://drive.google.com/file/d/1ZdYK9GeoYfqZxUdzlTnkBhIdMYEbhv3z/view?usp=sharing"  />
-</div>
+
 
 ###
