@@ -20,26 +20,18 @@
 
 ###
 ## Github Activity ✔:
-
-
-
-
-
-
 <div align="center">
-   
-
  <img  src="https://github-readme-stats.vercel.app/api?username=Chathuranga2002&show_icons=true&theme=tokyonight&line_height=27" />
-
-
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathuranga2002&theme=tokyonight" />
- 
-   
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathuranga2002&theme=tokyonight" /> 
+   <br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathuranga2002" alt="Chathuranga2002" /></a> 
 </div>
 <br/>
 <br/>
 
-###
+
+
+
 
 ## 🔗  Languages and Tools
 
